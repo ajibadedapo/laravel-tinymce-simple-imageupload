@@ -1,5 +1,5 @@
 {
-    "name": "petehouston/laravel-tinymce-simple-imageupload",
+    "name": "ajibadedapo/laravel-tinymce-simple-imageupload",
     "description": "Simple image upload for TinyMCE in Laravel.",
     "version": "1.1.0",
     "type": "library",
