@@ -19,6 +19,13 @@
             "homepage": "http://petehouston.com"
         }
     ],
+    "repositories":
+    [
+            {
+                "type": "vcs",
+                "url": "https://github.com/ajibadedapo/laravel-tinymce-simple-imageupload"
+            }
+    ],
     "require": {
         "illuminate/support": "~5.1",
         "php" : "~5.5|~7.0"
